@@ -6,3 +6,4 @@ env/
 .env
 chatbot.ipynb
 dash/
+__pycache__/
